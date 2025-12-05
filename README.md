@@ -77,9 +77,16 @@ This project serves as a robust example of integrating specialized Python analys
 
 ---
 
+## 📌 Future Improvements
+
+* Rewrite the code for better readability, organization, clarity of variable names.
+
+--- 
+
 ## 🧑‍💻 Author
 
-Developed by: Vu Bao Chau Nguyen (PhD)
-Field: Linear Sweep Voltammetry (LSV), OriginLab
+Developed by: Vu Bao Chau Nguyen, Ph.D.
+
+Keywords: Linear Sweep Voltammetry (LSV), OriginLab
 
 ---
