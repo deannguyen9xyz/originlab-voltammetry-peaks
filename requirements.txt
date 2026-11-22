@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+originpro
+# The script runs inside OriginLab (Origin 2021 or later), whose embedded Python
+# also provides the PyOrigin module; PyOrigin is not installed from pip.
